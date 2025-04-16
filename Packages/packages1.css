@@ -1,0 +1,99 @@
+.plan-plus {
+  background: #d7ffde;
+  width: 80%;
+  margin-top: 50px;
+  border: 4px solid #0e4f1f;
+}
+
+.plan-plus__link {
+  text-decoration: none;
+  padding: 15px;
+}
+
+.plan-plus__header {
+  font-weight: bold;
+  color: black;
+  margin-left: 30px;
+}
+
+.plan-plus__description {
+  color: #979797;
+  margin-left: 30px;
+}
+
+.plan-plus__benefit {
+  background: white;
+  border: 1.5px solid black;
+  font-size: 20px;
+  width: 96%;
+  margin: 30px auto;
+  color: #0e4f51;
+  padding: 15px;
+}
+
+.plan-free {
+  background: #ebfcee;
+  width: 80%;
+  border: 4px solid #0e4f1f;
+  margin-top: 25px;
+}
+
+.plan-free__link {
+  text-decoration: none;
+  padding: 15px;
+}
+
+.plan-free__header {
+  font-weight: bold;
+  color: black;
+  margin-left: 30px;
+  /* padding: 15px; */
+}
+
+.plan-free__description {
+  color: #979797;
+  margin-left: 30px;
+}
+
+.plan-free__benefit {
+  background: white;
+  border: 1.5px solid black;
+  font-size: 20px;
+  width: 96%;
+  margin: 30px auto;
+  color: #0e4f51;
+  padding: 10px;
+}
+
+.plan-premium {
+  background: #1a582a;
+  width: 80%;
+  border: 4px solid #0e4f1f;
+  margin-top: 25px;
+}
+
+.plan-premium__link {
+  text-decoration: none;
+  padding: 15px;
+}
+
+.plan-premium__header {
+  font-weight: bold;
+  color: #ffffff;
+  margin: 15px auto auto 30px;
+}
+
+.plan-premium__description {
+  color: #bbbbbb;
+  margin-left: 30px;
+}
+
+.plan-premium__benefit {
+  background: white;
+  border: 1.5px solid black;
+  margin: 30px auto;
+  font-size: 20px;
+  width: 96%;
+  padding: 10px;
+  color: #0e4f51;
+}
