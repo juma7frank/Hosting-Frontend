@@ -1,2 +1,2 @@
 # Hosting Frontend Project
-Welcome to me outstanding fronted interface!
+Welcome to my outstanding fronted interface!
